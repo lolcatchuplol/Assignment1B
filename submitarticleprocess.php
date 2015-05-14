@@ -48,7 +48,6 @@
                 <p><a href=\"javascript:history.back(1);\">Try again</a>";
         }
         else {
-//		    $dbConnect = @mysqli_connect("cmslamp14.aut.ac.nz", "zbv9522", "litter7834", "zbv9522")
             $dbConnect = @mysqli_connect("localhost", "root", "", "zbv9522")
                 or die("<p>Unable to connect to the database server.</p>".
                        "<p>Error code ". mysqli_connect_errno(). ": ".
