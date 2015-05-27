@@ -10,7 +10,7 @@
     <h1>Article Searcher</h1>
     <h2>About this assignment</h2>
     <p>Assignment members:</p>
-    <li>Liang Chen ()</li>
+    <li>Liang Chen (19763402)</li>
     <li>Qingyang Guo (1395160)</li>
     <li>Karl Smith (1390533)</li>
     <p><a href="index.php">Return to Home Page</a></p>
